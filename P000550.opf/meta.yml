@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG6134
   title: འཛམ་གླིང་གནའ་རབས་ལོ་རྒྱུས་ཀྱི་གཏམ་རྒྱུད།
-  volume: ''
+  volume:
+    66ca4f01418b4b669ef14db9380aeb52:
+      image_group_id: I1KG8441
+      title: Volume 1 of 'dzam gling gna' rabs lo rgyus kyi gtam rgyud/
+      volume_number: 1
+      total_pages: 432
   author: ''
+ebook_metadata:
+  title: འཛམ་གླིང་གནའ་རབས་ལོ་རྒྱུས་ཀྱི་གཏམ་རྒྱུད།
+  author: ''
+  sku: P000550
+  cover: cover.jpg
+  layers:
+  - pagination
